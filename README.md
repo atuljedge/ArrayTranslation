@@ -12,13 +12,4 @@ A Windows application for geometric pattern generation using MFC, currently impl
 - Drawing area visualization
 
 
-### Technical Details
-```cpp
-// Core Translation Parameters (Implemented)
-int m_TotalObjects;       // Number of objects in array
-double m_XExcursion;      // Horizontal spacing
-double m_YExcursion;      // Vertical spacing
 
-// UI Controls (Partial Implementation)
-CButton m_ZShape;         // Shape selection toggle
-CStatic m_DrawingArea;    // Visualization canvas
