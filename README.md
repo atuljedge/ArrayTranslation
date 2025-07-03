@@ -1,4 +1,4 @@
-%% Paste this in your README.md - GitHub now supports Mermaid natively!
+
 graph TD
     A[ClearDrawingArea] -->|CDC& dc| B[Draw Axes]
     B --> C[DrawRectangles]
