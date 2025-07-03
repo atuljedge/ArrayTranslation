@@ -1,4 +1,6 @@
+## 🔄 Drawing Pipeline Workflow
 
+```mermaid
 graph TD
     A[ClearDrawingArea] -->|CDC& dc| B[Draw Axes]
     B --> C[DrawRectangles]
